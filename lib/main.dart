@@ -16,7 +16,6 @@ class _MyAppState extends State<MyApp> {
   String _extension;
   bool _hasValidMime = false;
   FileType _pickingType;
-
   TextEditingController _controller = new TextEditingController();
 
   @override
